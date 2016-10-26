@@ -1,5 +1,7 @@
 # chatops
 chatops presentation
+![](https://octodex.github.com/images/hubot.jpg)
+
 
 **ChatOps** 
 
