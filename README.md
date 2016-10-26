@@ -5,6 +5,7 @@ chatops presentation
 
 **Why**
 - problem context (so many tools, distributed people, complex, confusion) 
+- the new OPS norm!
 
 **History**
 GitHub/Hubot
@@ -16,8 +17,14 @@ GitHub/Hubot
 - transparency & new wiki (history)
 - automation
 - measurements/metrics
+- business value
+
 
 **Getting Started**
+- Common Use Cases
+- Popular frameworks
+- Integrations
+- Intelligence gathering
 
 
 DEMO:
@@ -26,3 +33,7 @@ tools/urls:
 
 TRELLO - chatopsdemo  - public invite https://trello.com/invite/b/5Vk3OQTV/a40ed03eea72dfb47284516939feb642/chatopsdemo
 SLACK-https://klaatu.slack.com/
+
+**References**
+
+https://github.com/exAspArk/awesome-chatops
