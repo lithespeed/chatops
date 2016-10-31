@@ -43,6 +43,15 @@ GitHub/Hubot
  
 - Common Use Cases
 
+ - Trello, GitHub, CI/CD
+
+- COMMAND LINE TO OUR TEAMS PROCESSES
+- AUTOMATION - 
+- BENEFITS - reduce errors ie CI, visibility
+
+- Hubot - listening and responding - 
+
+
 
 - Popular frameworks
 - Integrations
