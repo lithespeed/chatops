@@ -51,7 +51,7 @@ GitHub/Hubot
 
 - Hubot - listening and responding - 
 
-Raj are you there?  Helloooo
+
 
 - Popular frameworks
 - Integrations
@@ -71,5 +71,6 @@ SLACK-https://klaatu.slack.com/
 **References**
 
 https://github.com/exAspArk/awesome-chatops
-RAJ this is soo coll look at /giphy cats
+
+NEED more references please!!!
 
